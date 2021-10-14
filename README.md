@@ -1,6 +1,9 @@
 # Air Assesment Tool - Air Pollutants for 2 Cities 
 
-To run project: 'npm start'
+To run project: 
+1) 'npm install' 
+2) 'npm start'
+
 View in browser: http://localhost:3000
 
 User Instructions
